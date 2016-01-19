@@ -3,3 +3,4 @@ This is ReadMe file.!!!!
 editted version..
 this is modified by to check where fetch is required.
 Updated by Osmand..
+this is feature 5
